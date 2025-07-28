@@ -21,7 +21,7 @@
 
   
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahul-reddy-a21a53244/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahul-reddy-a21a53244)
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <!-- <p align="left"> -->
