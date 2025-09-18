@@ -71,11 +71,3 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<!-- Ensure your GitHub repository has the action enabled -->
-<img src="https://github.com/rahul-reddy16/rahul-reddy16/blob/output/github-contribution-grid-snake.svg">
-
----
-
-<img src="https://github.com/rahul-reddy16/rahul-reddy16/blob/output/github-contribution-grid-snake-dark.svg">
