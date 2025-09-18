@@ -62,10 +62,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-reddy16&show_icons=true&locale=en" alt="rahul-reddy16" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-reddy16&layout=compact" alt="Top Languages" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-reddy16" alt="GitHub Streak" />
 </div>
 
