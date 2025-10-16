@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+DevOps+Engineer,;AIML+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Certified AWS Cloud Practioner,; Aspiring+DevOps+Engineer,;AIML+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **AWS Cloud**
 - 💬 Ask me about **Python, Data Science,cloud and Machine Learning**
 - 📫 How to reach me: **rahulrompalli16@gmail.com**
-- ⚡ Fun fact: **Having an affair with DevOps**
+- ⚡ Fun fact: **Having an affair with DevOps and Cloud**
 
 ---
 
@@ -29,12 +29,13 @@
 
 ## 🚀 Highlight Projects
 
-- 🔧 [Insurance DevOps CI/CD Pipeline](https://github.com/rahul-reddy16/star-agile-health-care)
+- 🔧 [Health care DevOps CI/CD Pipeline](https://github.com/rahul-reddy16/star-agile-health-care)
   - Jenkins, Docker, Maven, Ansible, Selenium, AWS EC2
   - Fully automated pipeline with GitHub webhooks
-- 🤖 [Customer Segmentation Project](https://github.com/rahul-reddy16/customer-segmentation)
-  - Performed K-Means clustering on customer behavior data
-  - Generated marketing strategy insights
+- 🤖 [Banking-finance devloped CI/CD Pipeline](https://github.com/rahul-reddy16/star-agile-banking-finance)
+  - Kubernetes cluster using Terraform And kubeadm
+  - Deployed applications with Helm charts, validated builds, and monitored via Grafana dashboards
+  - Optimized build process, reducing integration time by 30 Percent
 
 ---
 
